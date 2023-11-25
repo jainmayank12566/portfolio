@@ -168,6 +168,7 @@ section:nth-child(2n+1){
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    margin: 50px;
 }
 .educationclass{
     border: 2px solid brown;
