@@ -160,6 +160,7 @@ section:nth-child(2n+1){
     background-position: center;
     background-attachment: fixed;
     background-size: contain;
+    height: auto;
 }
 #educationdiv{
     display: flex;
@@ -187,6 +188,7 @@ section:nth-child(2n+1){
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    height: auto;
 }
 #contactheader{
     text-align: center;
